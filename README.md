@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Hey, I'm Thijs" width="720" />
+  <img src="assets/header.svg" alt="Hey, I'm Thijs" width="720" />
 </p>
 
 I'm Thijs. I make iOS apps, jailbreak tweaks and developer tools, and I like taking software apart to see how it works.
@@ -8,11 +8,20 @@ whatever it takes underneath to make things run where they normally wouldn't.
 
 #### Projects
 
-| | | |
-|:-:|---|---|
-| <img src="https://raw.githubusercontent.com/Thijs2004/CyPort/main/app/icons/AppIcon60x60@2x.png" width="40" alt="" /> | **[CyPort](https://github.com/Thijs2004/CyPort)** | Runs your own copy of Cyberpunk 2077 for Mac natively on iPhone and iPad. A shim layer, binary patches, touch and controller support, cloud saves. |
-| <img src="https://raw.githubusercontent.com/Thijs2004/LiquidSiri/main/liquidsiriprefs/Resources/icon@2x.png" width="40" alt="" /> | **[LiquidSiri](https://github.com/Thijs2004/LiquidSiri)** | A liquid glass Siri for jailbroken iOS, with a Swift + Metal glass orb and live wave visuals. |
-| <img src="assets/mkw.svg" width="40" alt="" /> | **[nxnative-mkw](https://github.com/Thijs2004/nxnative-mkw)** | Mario Kart World on iPhone and Mac, built on nxnative. Bring your own dump. |
+<table>
+  <tr>
+    <td width="64" align="center"><img src="https://raw.githubusercontent.com/Thijs2004/CyPort/main/app/icons/AppIcon60x60@2x.png" width="48" height="48" alt="" /></td>
+    <td><a href="https://github.com/Thijs2004/CyPort"><b>CyPort</b></a><br />Runs your own copy of Cyberpunk 2077 for Mac natively on iPhone and iPad. A shim layer, binary patches, touch and controller support, cloud saves.</td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><img src="https://raw.githubusercontent.com/Thijs2004/LiquidSiri/main/liquidsiriprefs/Resources/icon@2x.png" width="48" height="48" alt="" /></td>
+    <td><a href="https://github.com/Thijs2004/LiquidSiri"><b>LiquidSiri</b></a><br />A liquid glass Siri for jailbroken iOS, with a Swift + Metal glass orb and live wave visuals.</td>
+  </tr>
+  <tr>
+    <td width="64" align="center"><img src="assets/mkw.svg" width="48" height="48" alt="" /></td>
+    <td><a href="https://github.com/Thijs2004/nxnative-mkw"><b>nxnative-mkw</b></a><br />Mario Kart World on iPhone and Mac, built on nxnative. Bring your own dump.</td>
+  </tr>
+</table>
 
 #### Right now
 
