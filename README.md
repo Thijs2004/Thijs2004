@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg" />
-    <img src="assets/hello-light.svg" alt="Hey, I'm Thijs. Apps, tweaks and tools for iPhone and iPad." width="820" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg" />
+    <img src="assets/intro-light.svg" alt="Hey, I’m Thijs. Apps. Tweaks. Tools. Made for iPhone." width="820" />
   </picture>
 </p>
 
