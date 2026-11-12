@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Thijs2004/LiquidSiri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/liquidsiri-dark.svg" /><img src="assets/liquidsiri-light.svg" alt="LiquidSiri. Siri, reimagined in liquid glass." width="49.5%" /></picture></a><a href="https://github.com/Thijs2004/nxnative-mkw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mkw-dark.svg" /><img src="assets/mkw-light.svg" alt="nxnative-mkw. Mario Kart World. On iPhone and Mac." width="49.5%" /></picture></a>
+<a href="https://github.com/Thijs2004/LiquidSiri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-liquidsiri-dark.svg" /><img src="assets/tile-liquidsiri-light.svg" alt="LiquidSiri. Siri, reimagined in liquid glass." width="49.5%" /></picture></a><a href="https://github.com/Thijs2004/nxnative-mkw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-mkw-dark.svg" /><img src="assets/tile-mkw-light.svg" alt="nxnative-mkw. Mario Kart World. On iPhone and Mac." width="49.5%" /></picture></a>
 </p>
 
 <br />
